@@ -12,8 +12,8 @@ function App() {
         {
           user ? (
             <section>
-              <h4>User Name:<span>{user?.username || 'N/A'}</span></h4>
-              <h4>First Name:<span>{user?.first_name || 'N/A'}</span></h4>
+              <h4>User Name:<span>{user?.username || 'N/A'}</span></h4> 
+              <h4>First Name:<span>{user?.first_name || 'N/A'}</span></h4> 
               <h4>Last Name:<span>{user?.last_name || 'N/A'}</span></h4>
               <h4>Chat Id:<span>{user?.id || 'N/A'}</span></h4>
             </section>
