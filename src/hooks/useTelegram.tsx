@@ -2,7 +2,6 @@ interface IWebApp {
     initDataUnsafe: {
         user: {
             id: number;
-            //telegram
             first_name: string;
             last_name: string;
             username: string;
