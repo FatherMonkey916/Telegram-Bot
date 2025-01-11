@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 75vmin;
+  height: 78vmin;
   pointer-events: none;
 }
 
@@ -21,6 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  color: white;
   color: white;
 }
 
